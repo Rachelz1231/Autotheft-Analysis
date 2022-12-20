@@ -1,2 +1,2 @@
 # Autotheft Analysis
-Analysis of Auto TheTs Occurred Focusing on Representa-ve Neighbourhoods, using staZsZc methods including Confidence Interval, Bootstrap Sampling, Regression Model.
+Analysis of auto-thefts occurred focusing on representative neighbourhoods, using statistic methods including Confidence Interval, Bootstrap Sampling, Regression Model.
